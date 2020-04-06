@@ -2,7 +2,7 @@
 using UnityEngine.UI;
 
 
-namespace BottomlessCloset
+namespace ExampleTemplate
 {
     public sealed class MainMenuBehaviour : BaseUi
     {

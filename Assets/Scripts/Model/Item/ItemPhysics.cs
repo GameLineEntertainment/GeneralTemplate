@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace BottomlessCloset
+namespace ExampleTemplate
 {
     [DisallowMultipleComponent]
     public sealed class ItemPhysics : MonoBehaviour

@@ -5,7 +5,7 @@ using UnityEngine;
 using Object = UnityEngine.Object;
 
 
-namespace BottomlessCloset
+namespace ExampleTemplate
 {
     [CreateAssetMenu(fileName = "Data", menuName = "Data/Data")]
     public sealed class Data : ScriptableObject

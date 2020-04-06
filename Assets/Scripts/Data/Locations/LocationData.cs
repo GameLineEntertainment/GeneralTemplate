@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 
 
-namespace BottomlessCloset
+namespace ExampleTemplate
 {
     [CreateAssetMenu(fileName = "LocationData", menuName = "Data/Location/LocationData")]
     public sealed class LocationData : ScriptableObject
